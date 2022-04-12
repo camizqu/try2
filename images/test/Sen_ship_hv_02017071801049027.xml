@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annots</folder>
+	<filename>Sen_ship_hv_02017071801049027.jpg</filename>
+	<path>C:\Users\Camila\Documents\ClubsComps\QMIND\PM\repo2.0\adga\adga-fastrcnn\annots\Sen_ship_hv_02017071801049027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>153</ymin>
+			<xmax>164</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>
